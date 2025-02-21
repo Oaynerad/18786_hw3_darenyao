@@ -6,7 +6,7 @@ Daren Yao
 
 I've uploaded a zip file of the entire code work, where  `Deliverable12.ipynb`, `Deliverable3.ipynb`, and `Deliverable4.ipynb` correspond to the code requirements in `HW3.pdf`. 
 
-**Deliverable 1 → `Deliverable12.ipynb`** & **mytorch.py**
+**Deliverable 1 → `Deliverable12.ipynb` & `mytorch.py`**
 
 **Deliverable 2 → `Deliverable12.ipynb`**
 
